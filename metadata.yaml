@@ -1,0 +1,31 @@
+_repo: Little-Miss-Grasshopper_55089
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dole, Helen B.
+    gutenberg_agent_id: '3032'
+    url: http://www.gutenberg.org/2009/agents/3032
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_issued: '2017-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Little Miss Grasshopper
+url: http://www.gutenberg.org/ebooks/55089
